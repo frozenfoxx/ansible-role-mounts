@@ -1,0 +1,16 @@
+galaxy_info:
+  author: frozenfoxx
+  description: Mount management
+  company: Cult of Foxx
+  role_name: mounts
+  namespace: frozenfoxx
+
+  license: Apache-2.0
+
+  min_ansible_version: "2.10"
+
+  galaxy_tags:
+    - linux
+    - filesystems
+
+dependencies: []
